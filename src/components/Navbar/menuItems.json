@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "url": "/"
+  },
+  {
+    "id": 1,
+    "title": "Menu",
+    "url": "/explore-menu"
+  },
+  {
+    "id": 1,
+    "title": "Mobile-App",
+    "url": "/app-download"
+  },
+  {
+    "id": 1,
+    "title": "Contact Us",
+    "url": "/footer"
+  }
+]
